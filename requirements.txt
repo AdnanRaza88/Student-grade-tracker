@@ -1,0 +1,8 @@
+fastapi
+sqlmodel
+groq
+python-dotenv
+uvicorn
+nicegui
+pandas
+openpyxl
