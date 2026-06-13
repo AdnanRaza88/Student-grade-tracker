@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "template": "How can I improve in {subject}? I scored {marks} out of {total} ({percentage}%)."
+  },
+  {
+    "id": 2,
+    "template": "What are the most important topics in {subject}?"
+  },
+  {
+    "id": 3,
+    "template": "Give me three daily study tips for {subject}."
+  },
+  {
+    "id": 4,
+    "template": "How to manage time for {subject} exam?"
+  },
+  {
+    "id": 5,
+    "template": "Why did I get a low score in {subject}? Suggest improvements."
+  }
+]
